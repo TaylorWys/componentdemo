@@ -4,7 +4,8 @@
     <ul>
       <li>
         <div class="tag" @click="skip">输入框demo</div>
-        <span>2019年7月22日</span></li>
+        <span>2019年7月22日</span>
+      </li>
     </ul>
   </div>
 </template>
